@@ -28,10 +28,8 @@ const Hero = () => {
                             <span className="inline-block animate-waving-hand">👋</span>
                         </h1>
                         <p className='text-base font-normal dark:text-[#D1D5DB]'>
-                            I&apos;m a full stack developer <a href='https://www.linkedin.com/in/yogeshpatade21/' target='blank'>(React.js & Node.js)</a> with a focus
-                            on creating exceptional digital
-                            experiences that are fast, accessible, visually appealing, and
-                            responsive. 
+                            I&apos;m an  <a href='https://www.linkedin.com/in/yogesh-patade-0515a6334/' target='blank'>(Electrical Design Engineer)</a> specialized in Solar Power Plant Design, SLD Preparation, AutoCAD Electrical Drafting, PVsyst Analysis, and 3D Layout modeling using Arka360 and SketchUp.
+I design electrical systems that are accurate, reliable, and easy to implement on-site.
                         </p>
                     </div>
                     <div className="flex flex-col gap-2 text-base font-normal dark:text-[#D1D5DB]">
