@@ -28,7 +28,7 @@ const Hero = () => {
                             <span className="inline-block animate-waving-hand">👋</span>
                         </h1>
                         <p className='text-base font-normal dark:text-[#D1D5DB]'>
-                            I&apos;m an  <a href='https://www.linkedin.com/in/yogesh-patade-0515a6334/' target='blank'>(Electrical Design Engineer)</a> specialized in Solar Power Plant Design, SLD Preparation, AutoCAD Electrical Drafting, PVsyst Analysis, and 3D Layout modeling using Arka360 and SketchUp.
+                            I&apos;m an  <a href='https://www.linkedin.com/in/yogesh-patade-0515a6334/' target='blank'>Electrical Design Engineer</a> specialized in Solar Power Plant Design, SLD Preparation, AutoCAD Electrical Drafting, PVsyst Analysis, and 3D Layout modeling using Arka360 and SketchUp.
 I design electrical systems that are accurate, reliable, and easy to implement on-site.
                         </p>
                     </div>
