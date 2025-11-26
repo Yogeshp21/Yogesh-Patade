@@ -6,7 +6,7 @@ import Skills from './Skills'
 import Work from './Work'
 import Contact from './Contact'
 import Footer from '../components/Footer'
-import Cable from './Cable'
+import SolarCableCalculator from './Cable'
 
 const Home = () => {
     return (
@@ -27,7 +27,7 @@ const Home = () => {
                 <Work />
             </div >
              <div className='py-16 md:py-24 dark:bg-[#111827]' id="work" >
-                <Cable />
+                <SolarCableCalculator />
             </div >
             <div className='py-16 md:py-24' id="contact" >
                 <Contact />
