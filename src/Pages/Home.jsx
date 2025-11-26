@@ -6,7 +6,7 @@ import Skills from './Skills'
 import Work from './Work'
 import Contact from './Contact'
 import Footer from '../components/Footer'
-import SolarCableCalculator from './Cable'
+import SolarCableCalculator from './SolarCableCalculator'
 
 const Home = () => {
     return (
