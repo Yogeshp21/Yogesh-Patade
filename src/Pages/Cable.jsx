@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Calculator, Zap, Cable, Settings, Save, AlertTriangle, CheckCircle, Info, ShieldCheck, Box } from 'lucide-react';
+
 
 const SolarCableCalculator = () => {
   const [activeTab, setActiveTab] = useState('dc');
