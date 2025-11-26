@@ -22,6 +22,10 @@ const Navbar = () => {
             name: 'Work',
             nav: '#work'
         },
+         {
+            name: 'Cable Size',
+            nav: '#Cable'
+        },
         {
             name: 'Contact',
             nav: '#contact'
